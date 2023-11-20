@@ -27,13 +27,13 @@ This repo is a fun project to analyze data of various formats.
 
 ## Web Data Scraping and Analysis
    - Description for Website Data Scraping and Analysis goes here.
-   - [MD for Website Scraping And Analysis ](data_science_project\website_data_scraping_analysis\manual.md)
+   - [MD for Website Scraping And Analysis ](data_science_project/website_data_scraping_analysis/manual.md)
 
    - Untested
 
 ## PDF Data Scraping and Analysis
    - Description for PDF Data Scraping and Analysis goes here.
-   - [MD for PDF Scraping](data_science_project\file_data_scraping_analysis_csv_excel_txt_json_pdf\pdf\manual.md)
+   - [MD for PDF Scraping](data_science_project/file_data_scraping_analysis_csv_excel_txt_json_pdf/pdf/manual.md)
   
  - Tested Unstrcuctured NLP sentiment_analysis
 
@@ -49,7 +49,7 @@ This repo is a fun project to analyze data of various formats.
 
 ## EXCEL Data Analysis
    - Description for Excel  Data Analysis goes here.
-   - [MD for Data Analysis]( data_science_project\file_data_scraping_analysis_csv_excel_txt_json_pdf\excel\manual.md
+   - [MD for Data Analysis]( data_science_project/file_data_scraping_analysis_csv_excel_txt_json_pdf/excel/manual.md
 )
 
 
@@ -57,7 +57,7 @@ This repo is a fun project to analyze data of various formats.
 
 ## JSON Data Analysis
    - Description for JSON Data Analysis goes here.
-   - [MD for Data Analysis]( data_science_project\file_data_scraping_analysis_csv_excel_txt_json_pdf\json\manual.md
+   - [MD for Data Analysis]( data_science_project/file_data_scraping_analysis_csv_excel_txt_json_pdf/json/manual.md
 )
 
 
@@ -66,16 +66,16 @@ This repo is a fun project to analyze data of various formats.
 
 ## XML Data Analysis
    - Description for XML Data Analysis goes here.
-   - [MD for Data Analysis]( data_science_project\file_data_scraping_analysis_csv_excel_txt_json_pdf\xml\manual.md
+   - [MD for Data Analysis]( data_science_project/file_data_scraping_analysis_csv_excel_txt_json_pdf/xml/manual.md
 )
 ## TXT Data Analysis
    - Description for TXT Data Analysis goes here.
-   - [MD for Data Analysis](  data_science_project\file_data_scraping_analysis_csv_excel_txt_json_pdf\txt\manual.md
+   - [MD for Data Analysis](  data_science_project/file_data_scraping_analysis_csv_excel_txt_json_pdf/txt/manual.md
 )
 
 ## Working Sample Data
    - Sample Data
-   - [Ten Stooges LLC sales](data_science_project\sample_data\sales.md
+   - [Ten Stooges LLC sales](data_science_project/sample_data/sales.md
 )
 
 
@@ -85,7 +85,7 @@ This repo is a fun project to analyze data of various formats.
  
 ## Machine Learning Task
    - Description for Machine Learning Task goes here.
-   - [MD for Machine Learning](data_science_project\machine_learning_task\machine-learning.md)
+   - [MD for Machine Learning](data_science_project/machine_learning_task/machine-learning.md)
 
 
 ## Setups :
