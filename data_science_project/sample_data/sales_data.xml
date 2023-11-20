@@ -1,0 +1,72 @@
+<sales_data>
+  <sale>
+    <date>2023-01-01</date>
+    <product>Product A</product>
+    <branch>Branch 1</branch>
+    <executive>Executive 1</executive>
+    <region>Region 1</region>
+    <customer>Customer 1</customer>
+    <age>25</age>
+    <gender>Male</gender>
+    <income>50000</income>
+    <revenue>10000</revenue>
+    <expenses>6000</expenses>
+    <profit>4000</profit>
+  </sale>
+  <sale>
+    <date>2023-01-02</date>
+    <product>Product B</product>
+    <branch>Branch 2</branch>
+    <executive>Executive 2</executive>
+    <region>Region 2</region>
+    <customer>Customer 2</customer>
+    <age>30</age>
+    <gender>Female</gender>
+    <income>60000</income>
+    <revenue>15000</revenue>
+    <expenses>8000</expenses>
+    <profit>7000</profit>
+  </sale>
+  <sale>
+    <date>2023-01-03</date>
+    <product>Product C</product>
+    <branch>Branch 3</branch>
+    <executive>Executive 3</executive>
+    <region>Region 3</region>
+    <customer>Customer 3</customer>
+    <age>35</age>
+    <gender>Male</gender>
+    <income>70000</income>
+    <revenue>12000</revenue>
+    <expenses>7000</expenses>
+    <profit>5000</profit>
+  </sale>
+  <sale>
+    <date>2023-01-04</date>
+    <product>Product D</product>
+    <branch>Branch 1</branch>
+    <executive>Executive 1</executive>
+    <region>Region 1</region>
+    <customer>Customer 4</customer>
+    <age>28</age>
+    <gender>Female</gender>
+    <income>55000</income>
+    <revenue>8000</revenue>
+    <expenses>4000</expenses>
+    <profit>4000</profit>
+  </sale>
+  <sale>
+    <date>2023-01-05</date>
+    <product>Product E</product>
+    <branch>Branch 2</branch>
+    <executive>Executive 2</executive>
+    <region>Region 2</region>
+    <customer>Customer 5</customer>
+    <age>32</age>
+    <gender>Male</gender>
+    <income>65000</income>
+    <revenue>11000</revenue>
+    <expenses>6000</expenses>
+    <profit>5000</profit>
+  </sale>
+</sales_data>

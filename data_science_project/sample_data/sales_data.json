@@ -1,0 +1,10 @@
+{
+    "sales": [
+      {"date": "2023-01-01", "product": "Product A", "branch": "Branch 1", "executive": "Executive 1", "region": "Region 1", "customer": "Customer 1", "age": 25, "gender": "Male", "income": 50000, "revenue": 10000, "expenses": 6000, "profit": 4000},
+      {"date": "2023-01-02", "product": "Product B", "branch": "Branch 2", "executive": "Executive 2", "region": "Region 2", "customer": "Customer 2", "age": 30, "gender": "Female", "income": 60000, "revenue": 15000, "expenses": 8000, "profit": 7000},
+      {"date": "2023-01-03", "product": "Product C", "branch": "Branch 3", "executive": "Executive 3", "region": "Region 3", "customer": "Customer 3", "age": 35, "gender": "Male", "income": 70000, "revenue": 12000, "expenses": 7000, "profit": 5000},
+      {"date": "2023-01-04", "product": "Product D", "branch": "Branch 1", "executive": "Executive 1", "region": "Region 1", "customer": "Customer 4", "age": 28, "gender": "Female", "income": 55000, "revenue": 8000, "expenses": 4000, "profit": 4000},
+      {"date": "2023-01-05", "product": "Product E", "branch": "Branch 2", "executive": "Executive 2", "region": "Region 2", "customer": "Customer 5", "age": 32, "gender": "Male", "income": 65000, "revenue": 11000, "expenses": 6000, "profit": 5000}
+    ]
+  }
+  
