@@ -1,11 +1,10 @@
-# Data Science Project Name
+# Data Science Project
 
 -------------------------------------
 <!-- An Overview  -->
 
 ## Overview
-
-Briefly describe the purpose and goal of your data science project.
+This repo is a fun project to analyze data of various formats. 
 
 ## Table of Contents
 
