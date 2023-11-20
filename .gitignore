@@ -1,0 +1,6 @@
+data_science_project/folder_structure.txt
+
+__pycache__/
+
+venv/
+data_science_project/sample_data/folder_structure.txt

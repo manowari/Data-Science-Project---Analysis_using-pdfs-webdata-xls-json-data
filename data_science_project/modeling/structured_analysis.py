@@ -1,25 +1,26 @@
 # structured_analysis.py
+
 from modeling.statistics import calculate_mean, calculate_median, calculate_standard_deviation, calculate_variance, calculate_mode
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 
-def analyze_structured_data(data):
+def analyze_structured_data(data, continuous_columns=None, categorical_column=None):
     # Replace this with your actual analysis for structured data
 
     # Placeholder: Extracted structured data (replace with your actual data extraction logic)
     df = pd.DataFrame(data)
 
     # Continuous Variables Analysis
-    continuous_analysis_result = analyze_continuous_variables(df[['Age', 'Income']])
+    continuous_analysis_result = analyze_continuous_variables(df[continuous_columns])
 
     # Categorical Variables Analysis
-    categorical_analysis_result = analyze_categorical_variables(df['Category'])
+    categorical_analysis_result = analyze_categorical_variables(df[categorical_column])
 
     # Linear Regression
-    regression_result = perform_linear_regression(df[['Age']], df['Income'])
+    regression_result = perform_linear_regression(df[continuous_columns], df[categorical_column])
 
     # Additional Statistical Analysis (if needed, otherwise, remove this line)
-    additional_statistical_result = perform_additional_statistical_analysis(df['Income'])
+    additional_statistical_result = perform_additional_statistical_analysis(df[categorical_column])
 
     result = {
         'continuous_analysis': continuous_analysis_result,
@@ -29,6 +30,8 @@ def analyze_structured_data(data):
     }
 
     return result
+
+# Rest of the code remains unchanged
 
 def analyze_continuous_variables(continuous_data):
     # Calculate averages, deviations, variances, etc. for continuous variables

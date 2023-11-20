@@ -9,9 +9,9 @@ This repo is a fun project to analyze data of various formats.
 ## Table of Contents
 
 
-- [Web Data Scraping and Analysis](#web-data-scraping-and-analysis)
+- [Web Data Scraping and Analysis](#web-data-scraping-and-analysis) 
 
-- [PDF Data Scraping and Analysis](#pdf-data-scraping-and-analysis)
+- [PDF Data Scraping and Analysis](#pdf-data-scraping-and-analysis) 
 - [CSV Data Analysis](#csv-data-analysis)
 - [XML Data Analysis](#xml-data-analysis)
 
@@ -29,11 +29,13 @@ This repo is a fun project to analyze data of various formats.
    - Description for Website Data Scraping and Analysis goes here.
    - [MD for Website Scraping And Analysis ](data_science_project\website_data_scraping_analysis\manual.md)
 
+   - Untested
+
 ## PDF Data Scraping and Analysis
    - Description for PDF Data Scraping and Analysis goes here.
    - [MD for PDF Scraping](data_science_project\file_data_scraping_analysis_csv_excel_txt_json_pdf\pdf\manual.md)
   
-
+ - Tested Unstrcuctured NLP sentiment_analysis
 
 
 
