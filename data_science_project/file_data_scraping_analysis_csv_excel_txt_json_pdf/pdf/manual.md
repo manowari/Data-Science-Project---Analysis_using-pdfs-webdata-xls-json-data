@@ -24,6 +24,7 @@ With this code, we're performing the following NLP tasks:
 - Named Entity Recognition (NER) using spaCy.
 - Sentiment Analysis using NLTK's VADER sentiment analyzer.
 
+Here's some output: 
 
 ![Alt text](image.png)
 
